@@ -1,0 +1,22 @@
+{
+  "name": "basic-website-boilerplate",
+  "description": "Learning Form validations  in angular js",
+  "main": "index.js",
+  "authors": [
+    "vijayam79 <vijayadurga.m79@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/vijayadurgam79/basic-website-boilerplate",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "public/lib"
+  ],
+  "dependencies": {
+    "angular": "^1.6.4",
+    "angular-ui-router": "^1.0.5"
+  }
+}

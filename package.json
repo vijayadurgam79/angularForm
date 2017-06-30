@@ -1,0 +1,22 @@
+{
+  "name": "basic-website-boilerplate",
+  "version": "1.0.0",
+  "description": "Learning Form validations  in angular js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vijayadurgam79/basic-website-boilerplate.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vijayadurgam79/basic-website-boilerplate/issues"
+  },
+  "homepage": "https://github.com/vijayadurgam79/basic-website-boilerplate#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
